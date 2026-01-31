@@ -49,7 +49,7 @@ Complete support for 12 major Indian metros:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/welcometomycity.git
+git clone https://github.com/rachts/welcometomycity-2.0.git
 cd welcometomycity
 
 # Install dependencies
